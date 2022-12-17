@@ -5,8 +5,8 @@ This repository contains the Tasks which were assigned to me during my Virtual I
 ## **Task - 1 Churn Prediction in Telecom Industry using Logistic Regression** 
 
 The ***Customer Churn Dataset*** contains information of 7,043 customers from a **Telecommunication Industry in California**. 
-Each record represents ***one customer*** and details about their ****demographics, location, tenure, subscription services, status for the quarter (joined, stayed or churned)***, and more. 
-By analysing the data, Pridicting whether the customer will *churn*, *stay* or *join* the Industry based on the parameters of the dataset. 
+Each record represents ***one customer*** and details about their ***demographics, location, tenure, subscription services, status for the quarter (joined, stayed or churned)***, and more. 
+By analysing the data, Predicting whether the customer will *churn*, *stay* or *join* the Industry based on the parameters of the dataset. 
 
 ***Dataset Link*** - https://www.kaggle.com/blastchar/telco-customer-churn 
 
